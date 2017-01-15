@@ -1,0 +1,65 @@
+.intro-header {
+    padding-top: 200px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
+    padding-bottom: 200px;
+    text-align: center;
+    color: #f8f8f8;
+    background: url(graniteisland.jpg) no-repeat center center;
+    background-size: cover;
+}
+
+.intromessage{
+	position: relative;
+	font-family: 'Abril Fatface', cursive;
+	font-size: 30px;
+}
+
+.intro-message > h1 {
+    font-family: 'Abril Fatface', cursive;
+    font-size: 30px
+    margin: 0;
+}
+
+.intro-message > h3 {
+    font-family: 'Abril Fatface', cursive;
+    font-size: 30px
+    margin:0;
+}
+
+.intro-divider {
+    width: 400px;
+    border-top: 1px solid #f8f8f8;
+    border-bottom: 1px solid rgba(0,0,0,0.2);
+}
+
+
+
+.leftside{
+	font-family: 'Playfair Display', serif;
+	font-size: 40px;
+}
+
+#name{
+	font-family: 'Amatic SC', cursive;
+	font-size: 50px
+}
+
+.rightside{
+	font-family: 'Playfair Display', serif;
+	font-size: 40px;
+}
+
+#contactdetails{
+	font-family: 'Playfair Display', serif;
+	font-size: 20px
+}
+
+.postdesign{
+	font-family: 'Playfair Display', serif;
+	font-size: 10px;
+}
+
+
+.panel-title{
+	font-family: 'Playfair Display', serif;
+	font-size: 30px;
+}
